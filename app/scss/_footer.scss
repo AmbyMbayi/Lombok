@@ -1,0 +1,23 @@
+.footer {
+  background-color: white;
+
+  padding-top: 50px;
+  padding-bottom: 20px;
+
+  img {
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+  }
+}
+.footer__links {
+  float: right;
+  margin-right: 50px;
+  position: relative;
+
+  li {
+    position: relative;
+    display: inline;
+    margin: 10px;
+  }
+}
